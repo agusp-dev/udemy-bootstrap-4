@@ -1,0 +1,16 @@
+.row > div {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.uno {
+  background: #999999;
+}
+
+.dos {
+  background: #888888;
+}
+
+.tres {
+  background: #777777;
+}
